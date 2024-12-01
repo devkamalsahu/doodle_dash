@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "36759712128",
+    "project_id": "doodledash-a546b",
+    "storage_bucket": "doodledash-a546b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36759712128:android:62d3bfc0e02a2d19c49165",
+        "android_client_info": {
+          "package_name": "com.example.doodle_dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36759712128-uiagq1gqcf8e8mrb6gkevk4mloo6ovop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOolWyAOrwfxUyr_hHrtNXWlqoekuexxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36759712128-uiagq1gqcf8e8mrb6gkevk4mloo6ovop.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "36759712128-bkg0rtij7gug3pvq5uo30lbjnn1lai34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.doodleDash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
